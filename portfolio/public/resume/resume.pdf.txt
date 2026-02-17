@@ -1,0 +1,7 @@
+This is a placeholder resume PDF file. 
+Replace this with your actual resume PDF.
+
+To create a proper resume:
+1. Create a PDF file of your resume
+2. Name it "resume.pdf"
+3. Place it in the public/resume/ directory

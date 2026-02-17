@@ -1,0 +1,8 @@
+.placeholder {
+  /* Placeholder SVG icon in base64 format */
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
